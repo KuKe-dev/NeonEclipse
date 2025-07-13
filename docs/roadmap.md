@@ -3,7 +3,7 @@ Versión v0.1.0
 [ ] Movimiento de la camara
 [ ] Dash
 [x] Ataques basicos del jugador
-[ ] Primer enemigo
+[x] Primer enemigo
 [ ] Crear assets de todo lo anterior
 [ ] Interfaz de usuario
 
